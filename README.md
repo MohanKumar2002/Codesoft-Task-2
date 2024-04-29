@@ -1,7 +1,9 @@
 **Tic-Tac-Toe AI
 **
 Overview:
-The Tic-Tac-Toe AI project is an implementation of an AI agent that plays the classic game of Tic-Tac-Toe against a human player. It employs algorithms like Minimax with or without Alpha-Beta Pruning to create an unbeatable AI opponent. This project provides insights into game theory and basic search algorithms.
+The Tic-Tac-Toe AI project is an implementation of an AI agent that plays the classic game of Tic-Tac-Toe against a human player. 
+It employs algorithms like Minimax with or without Alpha-Beta Pruning to create an unbeatable AI opponent.
+This project provides insights into game theory and basic search algorithms.
 
 Features:
 
@@ -33,4 +35,3 @@ Clone the repository or download the project files.
 Navigate to the directory containing the project files.
 Execute the main program file.
 Follow the on-screen instructions to play against the AI.
-This project serves as an educational tool to explore game theory concepts and search algorithms while enjoying a game of Tic-Tac-Toe against an unbeatable AI opponent.
